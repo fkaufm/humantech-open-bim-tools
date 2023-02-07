@@ -146,6 +146,7 @@ dependencies:
   - pcre2=10.40=hc3806b6_0
   - pexpect=4.8.0=pyhd3eb1b0_3
   - pickleshare=0.7.5=pyhd3eb1b0_1003
+  - pip
   - proj=9.1.0=h93bde94_0
   - ptyprocess=0.7.0=pyhd3eb1b0_2
   - pugixml=1.11.4=h295c915_1
